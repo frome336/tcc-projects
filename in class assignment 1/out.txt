@@ -1,0 +1,21 @@
+Loan Amount: 1.26675e+033
+Yearly Interest: 9.82633e-039
+Number of Years: 7012088
+Monthly Interest: 1.26487e+033
+Number of Payments: nan
+Monthly Payment: -1.60512e-027
+
+Loan Amount: 95000
+Yearly Interest: 1
+Number of Years: 30
+Monthly Interest: 0.0833333
+Number of Payments: 360
+Monthly Payment: 7916.67
+
+Loan Amount: 5000
+Yearly Interest: 2
+Number of Years: 30
+Monthly Interest: 0.166667
+Number of Payments: 360
+Monthly Payment: 833.333
+
