@@ -1,0 +1,29 @@
+/********************************************************
+*palindrome program
+*Francisco Rome
+*9/19/2017
+*program that will test a line of text from a file and determine if it is a palindrome
+*********************************************************
+
+open file and read data
+submit to test for palindrome
+create a switch statement that tests for palindrome
+create data file 
+get line form file and return the length of the string 
+then reverse the line and return the new string
+test to see if it is a palindrome then out put to screen result
+if not palindorne output "Not a palindorne to the screen."
+if not the same output not a palindrome
+if it is the same output ot ia a palindrome
+
+rbegin 
+#include <iostream>
+#include <string>
+#include <fstream>
+
+using namespace std;
+
+int main()
+{
+		ifstream inData;
+		
